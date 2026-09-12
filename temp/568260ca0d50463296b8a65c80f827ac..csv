@@ -1,0 +1,9 @@
+Employee_ID,Name,Department,Salary
+101.0,Sarah Connor,Operations,75000.0
+102.0,John Matrix,Security,68000.0
+,,,
+104.0,Ellen Ripley,Engineering,92000.0
+105.0,Terminator,Security,85000.0
+,,,
+107.0,Kyle Reese,Defense,60000.0
+,,,

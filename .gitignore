@@ -1,0 +1,15 @@
+cat <<EOT >> .gitignore
+# Secret / Key files
+*.key
+ss.key
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+EOT

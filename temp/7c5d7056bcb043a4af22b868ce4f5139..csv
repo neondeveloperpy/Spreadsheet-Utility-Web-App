@@ -1,0 +1,6 @@
+Transaction_ID,Customer_Name,Product,Quantity,Price_USD,Status
+TXN-1001,Alice Smith,Laptop,1,1200.0,Completed
+TXN-1002,Bob Jones,Mouse,2,25.5,Pending
+TXN-1003,Charlie Brown,Keyboard,3,75.0,Shipped
+TXN-1004,Diana Prince,Monitor,1,300.0,Completed
+TXN-1005,Ethan Hunt,Docking Station,1,150.0,Processing
